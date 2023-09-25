@@ -1,0 +1,2 @@
+# spring boot starter
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.huo.huo_client_sdk.ApiClientConfig
